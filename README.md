@@ -1,0 +1,1 @@
+# Given a number N the task is to check if it is divisible by 7 or not
